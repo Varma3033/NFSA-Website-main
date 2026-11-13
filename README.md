@@ -11,7 +11,7 @@ https://varma3033.github.io/NFSA-Website/
 
 
 # Notes
->Check Technical Walkthrough.md for assessment 3
+>Check technical-walkthrough.md for assessment 3
 
 >Only showing content from the NSFA film and TV collection which has images:
 Many NFSA titles had no images, after looking at initial api request results, and I wanted a visual exploration of the NFSA collection.
